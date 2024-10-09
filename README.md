@@ -6,7 +6,7 @@ Este proyecto contiene un test automatizado diseñado para una entrevista técni
 ## Estructura del Proyecto
 - `src/`: Contiene el código fuente del test.
 - `tests/`: Contiene los archivos de prueba.
-- `docs/`: Documentación del proyecto.
+
 
 ## Requisitos
 - Java 21
